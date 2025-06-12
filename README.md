@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniel Hassan
 
-<!--
-**danielhassan351/danielhassan351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring software developer with a background in astronomy, scientific computing, and data analysis. Here’s a sample of my work:
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [🌌 Celestial Mapping Tool](https://github.com/danielhassan351/celestial-mapping-tool)  
+  Interactive star visualization with Plotly (Python)
+
+- [🌟 HR Diagram Generator](https://github.com/danielhassan351/hr-diagram-generator)  
+  Scientific plotting of stellar temperature and luminosity (Python + MATLAB)
+
+- [📊 AstroData Dashboard](https://github.com/danielhassan351/astrodata-dashboard)  
+  Lightweight, searchable web UI for star datasets (HTML/CSS/JS)
+
+---
+
+## 💼 About Me
+
+- B.S. in Astronomy from SDSU  
+- Python, C++, Java, SQL, MATLAB  
+- Open to software engineering or data analyst roles
